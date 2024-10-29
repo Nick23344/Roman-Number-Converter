@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  body {
+    background-color: #a5d7f2;
+  }
+  
+  h1 {
+    padding: 65px;
+  }
+  
+  section {
+    background-color: #79a8f2;
+    padding: 30px;
+    width: 50%;
+    margin: 0 auto;
+    font-size: 25px;
+  }
+  
+  p {
+    padding: 15px;
+  }
+  
+  input {
+    width: 50%;
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 5px;
+    font-size: 20px;
+  }
+  
+  .output {
+    background-color: #87edcb;
+    margin-top: 25px;
+  }
+  
+  .hidden {
+    display: none;
+  }
